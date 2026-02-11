@@ -1,5 +1,5 @@
 # Finance
-Portfolio valuation and risk analysis utilizing Correlation Matrix, Coariance Matrix, Monte Carlo Simulation, also created a Volatility Optimization Surface between energy and risk sector stocks.
+Portfolio valuation and risk analysis utilizing Correlation Matrix, Coariance Matrix, Monte Carlo Simulation, also created a Volatility Optimization Surface between Energy and Tech stocks.
 
 When I first began creating this project in November of 2025, I wanted to model the "AI Boom" that we have been witnessing in the market. I currently have it modeling the last 5 years but it is customizable to show more recent movement.
 
